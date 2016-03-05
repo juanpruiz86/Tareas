@@ -6,10 +6,9 @@
 package dam_ed04_actividad;
 
 /**
- * 
- * @author Juan Pérez Ruiz <juanpruiz86@gmail.com>
+ * @author  Juan Pérez Ruiz
  * @since 05 De Marzo De 2016
- * @version v1.1.0
+ * @version 1.0
  * 
  */
 public class CCuenta {
